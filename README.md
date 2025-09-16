@@ -3,13 +3,18 @@
 You work at an e commerce company. The orders dataset has multiple purchase per customer. The business team wants to know:
 Each Customer's latest order and Each customers total spend
 <br />
-<h2>Input: </h2>  <br/>
-
-<img src="C:\Users\rozee\OneDrive\Desktop\Input" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+<p align="center">
+Input Raw Data:  <br/>
+<img src="https://github.com/user-attachments/assets/89e45be9-8820-4bb1-8436-8205874d8515" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
-
+<br />
+<br/>
+<p align="center">
+Output Process Data:  <br/>
+<img src="https://github.com/user-attachments/assets/168f179d-62b2-41fc-af71-e06367f9878e" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+</p>
 <h2>Things need to do</h2>
-
 - <b>Window it first</b> 
 - <b>Find the total</b>
 
